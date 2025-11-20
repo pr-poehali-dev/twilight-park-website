@@ -65,7 +65,7 @@ const Index = () => {
         <div 
           className="absolute inset-0 z-0"
           style={{
-            backgroundImage: `linear-gradient(rgba(139, 92, 246, 0.4), rgba(14, 165, 233, 0.4)), url(https://cdn.poehali.dev/projects/b1801aa3-793c-4887-a92a-1799e384fc4c/files/b9d44cbb-091e-4ccd-8762-065512dad84b.jpg)`,
+            backgroundImage: `linear-gradient(rgba(139, 92, 246, 0.4), rgba(14, 165, 233, 0.4)), url(https://cdn.poehali.dev/projects/b1801aa3-793c-4887-a92a-1799e384fc4c/files/cdc391f5-dcca-4b0e-abd3-9bd9cc58e78a.jpg)`,
             backgroundSize: 'cover',
             backgroundPosition: 'center',
           }}
