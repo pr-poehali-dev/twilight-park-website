@@ -8,7 +8,7 @@ import { Link } from 'react-router-dom';
 const Index = () => {
   const attractions = [
     {
-      title: 'Лабиринт',
+      title: 'Игровой лабиринт',
       image: 'https://cdn.poehali.dev/projects/b1801aa3-793c-4887-a92a-1799e384fc4c/files/ce18bf81-2bc5-46de-8512-7aea202be30c.jpg',
       icon: 'Puzzle'
     },
@@ -28,7 +28,7 @@ const Index = () => {
       icon: 'Mountain'
     },
     {
-      title: 'VR зона',
+      title: 'VR аттракционы',
       image: 'https://cdn.poehali.dev/projects/b1801aa3-793c-4887-a92a-1799e384fc4c/files/aec7134f-5ed5-4e9d-bc64-944aa88a9614.jpg',
       icon: 'Glasses'
     },
@@ -36,6 +36,36 @@ const Index = () => {
       title: 'Творческая зона',
       image: 'https://cdn.poehali.dev/projects/b1801aa3-793c-4887-a92a-1799e384fc4c/files/fc66b4e1-c5d1-426f-92df-c80351d0cc36.jpg',
       icon: 'Paintbrush'
+    },
+    {
+      title: 'Горки',
+      image: 'https://cdn.poehali.dev/projects/b1801aa3-793c-4887-a92a-1799e384fc4c/files/0a0a6fdc-3ddc-4ea7-9a05-8f021bd781b8.jpg',
+      icon: 'TrendingDown'
+    },
+    {
+      title: 'Деревянный городок',
+      image: 'https://cdn.poehali.dev/projects/b1801aa3-793c-4887-a92a-1799e384fc4c/files/712346c6-f255-48b9-aa7a-0f69feb2ee06.jpg',
+      icon: 'Home'
+    },
+    {
+      title: 'Песочница',
+      image: 'https://cdn.poehali.dev/projects/b1801aa3-793c-4887-a92a-1799e384fc4c/files/69aac9ad-bf1f-4dd7-accd-35b9c2234ccd.jpg',
+      icon: 'Box'
+    },
+    {
+      title: 'Аэрохоккей',
+      image: 'https://cdn.poehali.dev/projects/b1801aa3-793c-4887-a92a-1799e384fc4c/files/99002e07-e335-4065-ab5d-c67c0e381a73.jpg',
+      icon: 'Gamepad2'
+    },
+    {
+      title: 'Мягкие модули',
+      image: 'https://cdn.poehali.dev/projects/b1801aa3-793c-4887-a92a-1799e384fc4c/files/239226d8-7aeb-4a02-8da9-c659416978a5.jpg',
+      icon: 'Blocks'
+    },
+    {
+      title: 'Спортивные снаряды',
+      image: 'https://cdn.poehali.dev/projects/b1801aa3-793c-4887-a92a-1799e384fc4c/files/475631b5-99ad-4915-ab8a-ff64c99cc055.jpg',
+      icon: 'Dumbbell'
     }
   ];
 
