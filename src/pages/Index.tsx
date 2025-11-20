@@ -9,7 +9,7 @@ const Index = () => {
   const attractions = [
     {
       title: 'Лабиринт',
-      image: 'https://cdn.poehali.dev/projects/b1801aa3-793c-4887-a92a-1799e384fc4c/files/b9d44cbb-091e-4ccd-8762-065512dad84b.jpg',
+      image: 'https://cdn.poehali.dev/projects/b1801aa3-793c-4887-a92a-1799e384fc4c/files/ce18bf81-2bc5-46de-8512-7aea202be30c.jpg',
       icon: 'Puzzle'
     },
     {
@@ -19,17 +19,17 @@ const Index = () => {
     },
     {
       title: 'Бассейн с шариками',
-      image: 'https://cdn.poehali.dev/projects/b1801aa3-793c-4887-a92a-1799e384fc4c/files/b9d44cbb-091e-4ccd-8762-065512dad84b.jpg',
+      image: 'https://cdn.poehali.dev/projects/b1801aa3-793c-4887-a92a-1799e384fc4c/files/24f2343b-06c3-47c3-b97e-662d6c7375f5.jpg',
       icon: 'CircleDot'
     },
     {
       title: 'Скалодром',
-      image: 'https://cdn.poehali.dev/projects/b1801aa3-793c-4887-a92a-1799e384fc4c/files/b829608b-a113-4725-8f01-70f2723b16b1.jpg',
+      image: 'https://cdn.poehali.dev/projects/b1801aa3-793c-4887-a92a-1799e384fc4c/files/5c3eaa70-e328-4f70-a7a2-7687d9a95d46.jpg',
       icon: 'Mountain'
     },
     {
       title: 'VR зона',
-      image: 'https://cdn.poehali.dev/projects/b1801aa3-793c-4887-a92a-1799e384fc4c/files/b9d44cbb-091e-4ccd-8762-065512dad84b.jpg',
+      image: 'https://cdn.poehali.dev/projects/b1801aa3-793c-4887-a92a-1799e384fc4c/files/aec7134f-5ed5-4e9d-bc64-944aa88a9614.jpg',
       icon: 'Glasses'
     },
     {
